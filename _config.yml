@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Felix S Meyer"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Felix S Meyer"
 description              : &description "personal description"
