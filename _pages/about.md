@@ -17,5 +17,7 @@ Over the next few years, my goal is to learn as much as I can about the current 
 Before starting my PhD journey, I studied computer science at RWTH Aachen University. During my time there, I worked on various projects, including learning algorithms for omega automata and automatic speech recognition. Additionally, I was heavily involved in the student initiative [Team Sonnenwagen Aachen](https://www.sonnenwagen.org/) - a team of 50 students focused on developing, constructing, and racing solar-powered cars. I participated in both the 2019 and 2023 editions of the Bridgestone World Solar Challenge in Australia, where I was responsible for developing a velocity optimization software to help the team make strategic decisions during the races. Team Sonnenwagen has been a significant part of my life for many years, and I’m happy to have been featured in a [ZDF documentary](https://www.youtube.com/watch?v=5HCbwgGbqy4) about the 2023 challenge.
 
 ---
-Most recent Plot
-![Most recent Plot](/images/temperature_daily_mean.png)
+Most recent Plots
+![Daily Mean Temperatures EU](/images/temperature_daily_mean.png)
+![Ensemble Summer Mean Climatology by Lead Year](/images/ensemble_climatology_comparison_5leadyear_80members.png)
+![<img src="/images/temperature_daily_mean.png" width="250"/>](/images/temperature_daily_mean.png)
