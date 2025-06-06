@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2022-subword-dependent-model-scales
 excerpt: 'Improving combination of an attention-based encoder-decoder acoustic model and a language model by using individual scaling parameters per subword output token in the context of automatic speech recognition.'
-date: 2022
+date: 2022-09-18
 venue: 'Interspeech 2022'
 paperurl: 'https://www.isca-archive.org/interspeech_2022/meyer22_interspeech.html#'
 citation: 'Meyer, F., Michel, W., Zeineldeen, M., Schlüter, R., Ney, H. (2022) Automatic Learning of Subword Dependent Model Scales. Proc. Interspeech 2022, 4133-4136, doi: 10.21437/Interspeech.2022-10136'
