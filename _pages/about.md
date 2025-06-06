@@ -20,5 +20,5 @@ Before starting my PhD journey, I studied computer science at RWTH Aachen Univer
 ## Most Recent Plots
 **Daily Mean Temperature in the EU**
 ![Daily Mean Temperatures EU](/images/temperature_daily_mean.png)
-**Ensemble Summer Mean Climatology Differences by Lead Year**
-![Ensemble Summer Mean Climatology by Lead Year](/images/ensemble_climatology_comparison_5leadyear_80members.png)
+**RMSE Spread per Member Compared to ERA5**
+![Ensemble Summer Mean Climatology by Lead Year](/images/Ensemble_RMSE.png)
