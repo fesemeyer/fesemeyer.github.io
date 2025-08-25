@@ -20,5 +20,5 @@ Before starting my PhD journey, I studied computer science at RWTH Aachen Univer
 ## Recent Plots
 ### First Results
 ![first results](/images/model_vs_persistence.png)
-### SST Climatology from MPI-ESM-LR piControl 
+### SST Climatology from MPI-ESM-LR piControl Run
 ![SST Climatology](/images/daily_clim_turbo.gif)
